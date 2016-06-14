@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name        Instructables All Steps
 // @namespace   instructablesallsteps
+// @description	Redirects to view all steps on Instructables projects.
 // @include     http://*.instructables.com/id/*
 // @include     https://*.instructables.com/id/*
 // @version     0.1
